@@ -26,6 +26,45 @@ Orion is a blockchain-powered personal assistant that combines advanced AI with 
 - **Holographic Personal Assistant**: Utilizes a holographic interface to interact with users, providing guidance and motivation for fitness goals.
 - **Fitness Integration**: Syncs with Gears to track progress, suggest health wellness, and reward users for meeting goals.
 
+----
+
+## Orion Flow Diagram
+
+           +-----------------------+
+           |  User Connects        |
+           | (Socials -> X, Google)|
+           | Gears -> Fitness, AR  |
+           +---------+-------------+
+                     |
+                     v                                    
+     +-------------------------------------+                
+     |         Agentic Wallets             |                
+     | (Managed by privy-server-wallets,   |               
+     | with user-defined spending policies)|             
+     +---------------+---------------------+                
+                     |                                    
+                     v                                    
+     +---------------+---------------+                   
+     |     Eliza Agent (Agent 1)     |                   
+     | (Interacts with user,         |                     
+     |  gathers & processes data,    |
+     |  and triggers Agent 2 when    |                     
+     |  advanced computation is      |                     
+     |  required)                    |                     
+     +---------------+---------------+                     
+                     ^
+                     | 
+                     |                                    
+                     v                                     
+    +----------------+-----------------------+                 
+    |        Agent 2 (browser-use-webui)     |                 
+    | (Performs advanced computations and    |                
+    | returns results upon completion)       |                
+    +----------------+-----------------------+                 
+                
+
+
+
 
 ## Getting Started & Contributions
 
