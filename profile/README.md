@@ -65,6 +65,12 @@ Orion is a blockchain-powered personal assistant that combines advanced AI with 
 
 
 
+### Some examples
+
+https://github.com/user-attachments/assets/bacbd48f-eb6e-427b-87d1-4e61dda37a14
+
+https://github.com/user-attachments/assets/2ec4168e-f279-4a23-973b-968de93f1e11
+
 
 ## Getting Started & Contributions
 
@@ -80,3 +86,8 @@ Orion is an open-source project, and we welcome contributions from developers, d
 
 ### Community Guidelines
 We strive to foster an inclusive and respectful community. All contributors are expected to follow our community guidelines and code of conduct, available in the repository.
+
+
+
+
+
